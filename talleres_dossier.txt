@@ -10,3 +10,4 @@ FASE 2 AP5
 Taller sobre construcción del prototipo del software de acuerdo al análisis de las características funcionales y de calidad GA5-220501095-AA1-EV01
 Maquetación de la Interfaz gráfica en HTML GA5-220501095-AA1-EV04
 Maquetación de la Interfaz gráfica en XML - Android GA5-220501095-AA1-EV08
+Desde aquí se adicionan las líneas pendientes
