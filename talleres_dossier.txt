@@ -1,0 +1,12 @@
+Actividades para adicionar al Dossier Project:
+FASE 1 AP2
+Elaboración de diagramas y plantillas para casos de uso del proyecto. GA2-220501093-AA1-EV02
+Propuesta técnica y económica para la implementación del proyecto. GA2-220501094-AA3-EV02
+FASE 2 AP4
+Desarrollar la arquitectura de software de acuerdo al patrón de diseño seleccionado GA4-220501095-AA2-EV05
+Diagrama de despliegue para caso de estudio y proyecto de software GA4-220501095-AA3-EV03
+Modelos conceptual y lógico para el proyecto desarrollo de software GA4-220501095-AA1-EV02
+FASE 2 AP5
+Taller sobre construcción del prototipo del software de acuerdo al análisis de las características funcionales y de calidad GA5-220501095-AA1-EV01
+Maquetación de la Interfaz gráfica en HTML GA5-220501095-AA1-EV04
+Maquetación de la Interfaz gráfica en XML - Android GA5-220501095-AA1-EV08
