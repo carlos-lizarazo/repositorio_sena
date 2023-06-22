@@ -1,8 +1,4 @@
 <?php
-// Crear un array simple.
-$array = array(1, 2, 3, 4, 5);
-print_r($array);
-
 // Ahora elimina cada elemento, pero deja el mismo array intacto:
 foreach ($array as $i => $value) {
     unset($array[$i]);
